@@ -1,11 +1,13 @@
 package reflect.demo;
 
 import reflect.annotations.AutoRunMethod;
+import reflect.annotations.AutorunClass;
 
 /**
  * @author liwei
  * @create 2022-04-18-10:30
  **/
+@AutorunClass
 public class Person {
     private String name = "张三";
     private int age = 30;

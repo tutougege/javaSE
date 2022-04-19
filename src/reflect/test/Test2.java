@@ -1,4 +1,4 @@
-package reflect.demo;
+package reflect.test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;

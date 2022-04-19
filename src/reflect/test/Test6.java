@@ -1,4 +1,4 @@
-package reflect.demo;
+package reflect.test;
 
 import reflect.annotations.AutoRunMethod;
 import reflect.annotations.AutorunClass;
