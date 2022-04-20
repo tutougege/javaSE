@@ -5,7 +5,6 @@ import jdk.management.resource.internal.inst.FileOutputStreamRMHooks;
 import reflect.annotations.AutoRunMethod;
 import reflect.annotations.AutorunClass;
 import reflect.demo.Person;
-
 import java.io.File;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
